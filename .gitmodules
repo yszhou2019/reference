@@ -1,0 +1,12 @@
+[submodule "gcc-12.2.0"]
+	path = gcc-12.2.0
+	url = git@github.com:yszhou2019/gcc-12.2.0.git
+[submodule "glibc-2.35"]
+	path = glibc-2.35
+	url = git@github.com:yszhou2019/glibc-2.35.git
+[submodule "glibc-linux-threads-2.3.5"]
+	path = glibc-linux-threads-2.3.5
+	url = git@github.com:yszhou2019/glibc-linux-threads-2.3.5.git
+[submodule "linux-6.0.12"]
+	path = linux-6.0.12
+	url = git@github.com:yszhou2019/linux-6.0.12.git
